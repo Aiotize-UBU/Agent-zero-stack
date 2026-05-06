@@ -1,4 +1,4 @@
-# Agent-zero-stack
+# Agent-zero-installation-guide
 Agent-Zero
 
 Here’s a practical, copy‑pasteable guide for deploying Agent Zero on:
